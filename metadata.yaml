@@ -1,0 +1,32 @@
+_repo: Sidsel-Langrockchen_48902
+contributor:
+  illustrators:
+  - agent_name: Bergh, Lisbeth
+    gutenberg_agent_id: '45032'
+    url: http://www.gutenberg.org/2009/agents/45032
+  - agent_name: Michaelis, Arthur
+    gutenberg_agent_id: '45031'
+    url: http://www.gutenberg.org/2009/agents/45031
+  translator:
+    agent_name: Schmidt-Kristiania, Walther R.
+    gutenberg_agent_id: '45033'
+    url: http://www.gutenberg.org/2009/agents/45033
+creator:
+  author:
+    agent_name: Aanrud, Hans
+    birthdate: 1863
+    deathdate: 1953
+    gutenberg_agent_id: '31932'
+    url: http://www.gutenberg.org/2009/agents/31932
+    wikipedia: http://en.wikipedia.org/wiki/Hans_Aanrud
+description: ''
+gutenberg_issued: '2015-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48902'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Sidsel Langröckchen
+url: http://www.gutenberg.org/ebooks/48902
