@@ -1,4 +1,5 @@
 _repo: Sidsel-Langrockchen_48902
+_version: 0.1.0
 contributor:
   illustrators:
   - agent_name: Bergh, Lisbeth
@@ -11,6 +12,9 @@ contributor:
     agent_name: Schmidt-Kristiania, Walther R.
     gutenberg_agent_id: '45033'
     url: http://www.gutenberg.org/2009/agents/45033
+covers:
+- cover_type: archival
+  image_path: 48902-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Aanrud, Hans
@@ -20,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31932
     wikipedia: http://en.wikipedia.org/wiki/Hans_Aanrud
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48902#Sidsel-Langrockchen
 gutenberg_issued: '2015-05-09'
 gutenberg_type: Text
 identifiers:
